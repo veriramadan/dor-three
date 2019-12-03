@@ -6,5 +6,5 @@ Tools Tembak Paket Three
 # pkg install curl
 # pkg install git
 # git clone https://github.com/veriramadan/dor-three
-# cd tembak-three
+# cd dor-three
 # bash three.sh
